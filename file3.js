@@ -1,2 +1,1 @@
-console.log('Sao ma ve duoc')
-console.log('Chua ve dau')
+console.log('Sao ma ve dsdsc')
